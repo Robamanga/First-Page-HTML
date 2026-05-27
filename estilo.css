@@ -43,8 +43,11 @@ main {
 /* ===Linha sobre mim=== */
 .LinhaSobre{
     background: #fef3c7;
+    padding: 12px;
     border-left: 4px solid #f59e0b;
-    width: 450px;
+    border-radius: 6px;
+    margin-top: 12px;
+    font-weight: 500px;
 }
 
 /* ====Cada bloco vira um card==== */
